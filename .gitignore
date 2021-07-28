@@ -53,3 +53,6 @@ dkms.conf
 
 # configuracion de vsCode
 .vscode
+
+# modulos de node
+node_modules/

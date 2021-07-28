@@ -20,5 +20,15 @@
   "bugs": {
     "url": "https://github.com/PabloASanchezC/proyectoNpm/issues"
   },
-  "homepage": "https://github.com/PabloASanchezC/proyectoNpm#readme"
+  "homepage": "https://github.com/PabloASanchezC/proyectoNpm#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "date-fns": "^2.23.0",
+    "webpack": "^5.47.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^7.31.0"
+  }
 }
